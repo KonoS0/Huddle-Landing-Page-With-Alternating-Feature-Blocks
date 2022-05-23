@@ -1,0 +1,13 @@
+@import "_colors";
+/* Configuração Padrão de Botões */
+.btn{
+    border-radius: 50px;
+    border-color: transparent;
+    box-shadow: 0 2px 2px var(--veryPale-Cyan);
+    font-weight: 600;
+}
+
+/* Botão Branco da Seção Nav */
+.topbtn{
+    background-color: white;
+}

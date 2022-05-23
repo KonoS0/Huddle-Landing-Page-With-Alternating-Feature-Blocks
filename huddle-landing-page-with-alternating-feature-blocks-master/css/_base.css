@@ -1,0 +1,33 @@
+@import "_colors.css";
+@import "_fonts.css";
+@import "_butttons.css";
+
+
+/* Configurações Globais */
+body{
+    width: 100vw;
+}
+
+/* Configurações do Header */
+header{
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 15px 25px 15px;
+}
+nav img{
+    max-width: 35%;
+}
+
+
+.headerbody{
+    padding: 25px 0px 30px 0px;
+    text-align: center;
+}
+
+.headerbody img{
+    max-width: 100%;
+}

@@ -1,0 +1,9 @@
+:root{
+    /* Primary Colors */
+    --Pink: hsl(322, 100%, 66%);
+
+    /* Neutral Colors */
+    --veryPale-Cyan: hsl(193, 100%, 96%);
+    --veryDark-Cyan: hsl(192, 100%, 9%);
+    --grayish-Blue: hsl(208, 11%, 55%);
+}
